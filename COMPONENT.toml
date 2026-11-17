@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-yama"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-yama component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
